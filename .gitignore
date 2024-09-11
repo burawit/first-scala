@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# BSP (Build Server Protocol)
+.bsp/
+
+# Ignore build output and cache directories
+/.idea/modules.xml
+/.idea/workspace.xml
+/out/
+/target/
+/logs/
+
+# sbt specific
+project/target/
+project/project/
